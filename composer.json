@@ -1,0 +1,19 @@
+{
+    "name": "maxlcoder/data-type",
+    "description": "data-type transformer",
+    "type": "library",
+    "license": "MIT",
+    "authors": [
+        {
+            "name": "maxlcoder",
+            "email": "liurenlin77@gmail.com"
+        }
+    ],
+    "minimum-stability": "dev",
+    "require": {},
+    "autoload": {
+        "psr-4": {
+            "Maxlcoder\\DataType\\": "src/"
+        }
+    }
+}
